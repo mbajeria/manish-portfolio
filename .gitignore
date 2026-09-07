@@ -1,0 +1,4 @@
+# Local assets & generator scripts
+linkedin_banners/
+generate_banners.py
+.DS_Store
